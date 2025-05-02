@@ -1,3 +1,22 @@
+proxy-groups:
+  - name: "VPN1"
+    type: select
+    proxies:
+      - "Finland"
+      - DIRECT
+
+  - name: "VPN2"
+    type: select
+    proxies:
+      - "Dallas"
+      - DIRECT
+
+  - name: "VPN3"
+    type: select
+    proxies:
+      - "Germany"
+      - DIRECT
+
 rules:
 
   ## Some staff
