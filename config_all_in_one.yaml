@@ -1,0 +1,701 @@
+payload:
+  ## Some staff
+  - DOMAIN-SUFFIX,porsche.com,VPN1
+  - DOMAIN-SUFFIX,adguard.com,VPN2
+  - DOMAIN-SUFFIX,stockx.com,VPN1
+  - DOMAIN-SUFFIX,berkeleygraphics.com,VPN1
+  - DOMAIN-SUFFIX,tableau.com,VPN1
+  - DOMAIN-SUFFIX,7sense.ee,VPN2
+  - DOMAIN-SUFFIX,rideicon.com,VPN1
+  - DOMAIN-SUFFIX,1grizzlysms.com,VPN2
+  - DOMAIN-SUFFIX,thepiratebay.org,VPN2
+  - DOMAIN-SUFFIX,analog.com,VPN2
+  - DOMAIN-SUFFIX,dremel.com,VPN2
+
+  - DOMAIN-SUFFIX,n8n.io,VPN2
+  - DOMAIN-SUFFIX,n8n.cloud,VPN2
+
+  - DOMAIN-SUFFIX,backbone.com,VPN2
+
+  - DOMAIN-SUFFIX,vipole.com,VPN2
+  - DOMAIN-SUFFIX,subdomain.vipole.com,VPN2
+
+  - DOMAIN-SUFFIX,dyson.com,VPN2
+
+  - DOMAIN-SUFFIX,chevrolet.com,VPN1
+
+  - DOMAIN-SUFFIX,crunchbase.com,VPN2
+
+  - DOMAIN-SUFFIX,clientstream.launchdarkly.com,DIRECT
+
+  - DOMAIN-SUFFIX,accounts.rhino3d.com,REJECT
+  - DOMAIN-SUFFIX,api.mcneel.com,REJECT
+
+  ## Google
+  ##- DOMAIN-SUFFIX,google.com,VPN2
+
+  ## YouTube
+  ##- GEOIP,US,VPN2
+  - DOMAIN-KEYWORD,clientstream.launchdarkly.com,VPN2
+  - DOMAIN-KEYWORD,api.segment.io,VPN2
+  - DOMAIN-KEYWORD,play.google.com,VPN2
+
+  - DOMAIN-KEYWORD,youtube,VPN2
+  - DOMAIN-SUFFIX,youtube.com,VPN2
+  - DOMAIN-SUFFIX,googlevideo.com,VPN2
+  - DOMAIN-SUFFIX,ytimg.com,VPN2
+  - DOMAIN-SUFFIX,youtu.be,VPN2
+  - DOMAIN-SUFFIX,youtube.googleapis.com,VPN2
+  - DOMAIN-SUFFIX,withyoutube.com,VPN2
+  - DOMAIN-SUFFIX,youtube.l.google.com,VPN2
+  - DOMAIN-SUFFIX,ytstatic.l.google.com,VPN2
+  - DOMAIN-SUFFIX,ytimg.edgekey.net,VPN2
+  - DOMAIN-SUFFIX,yt3.ggpht.com,VPN2
+  - DOMAIN-SUFFIX,ggpht.com,VPN2
+  - DOMAIN-SUFFIX,youtubei.googleapis.com,VPN2
+  - DOMAIN-SUFFIX,yt4.ggpht.com,VPN2
+  - DOMAIN-SUFFIX,ytimg.l.google.com,VPN2
+  - DOMAIN-SUFFIX,googleusercontent.com,VPN2
+  - DOMAIN-SUFFIX,googleapis.com,VPN2
+  - DOMAIN-SUFFIX,gstatic.com,VPN2
+  - DOMAIN-SUFFIX,youtube-nocookie.com,VPN2
+  - DOMAIN-SUFFIX,youtubeads.g.doubleclick.net,VPN2
+  - DOMAIN-SUFFIX,redirector.googlevideo.com,VPN2
+  - DOMAIN-SUFFIX,r3---sn-xxxxxxxxx.googlevideo.com,VPN2
+  - DOMAIN-SUFFIX,youtube.com.tr,VPN2
+
+  - DOMAIN-SUFFIX,api.invidious.io,VPN2
+  - DOMAIN-SUFFIX,iv.ggtyler.dev,VPN2
+
+  ## Instagram
+  - DOMAIN-SUFFIX,instagram.com,VPN2
+  - DOMAIN-SUFFIX,www.instagram.com,VPN2
+  - DOMAIN-SUFFIX,cdninstagram.com,VPN2
+  - DOMAIN-SUFFIX,static.cdninstagram.com,VPN2
+  - DOMAIN-SUFFIX,scontent.cdninstagram.com,VPN2
+  - DOMAIN-SUFFIX,instagramstatic.com,VPN2
+  - DOMAIN-SUFFIX,igcdn-photos-e-a.akamaihd.net,VPN2
+  - DOMAIN-SUFFIX,graph.instagram.com,VPN2
+  - DOMAIN-SUFFIX,api.instagram.com,VPN2
+  - DOMAIN-SUFFIX,edge-chat.instagram.com,VPN2
+  - DOMAIN-SUFFIX,ig.me,VPN2
+  - DOMAIN-SUFFIX,instagr.am,VPN2
+  - DOMAIN-SUFFIX,igsonar.com,VPN2
+
+  ## Facebook
+  - DOMAIN-SUFFIX,facebook.com,VPN1
+  - DOMAIN-SUFFIX,fbcdn.net,VPN1
+  - DOMAIN-SUFFIX,fb.com,VPN1
+  - DOMAIN-SUFFIX,fbsbx.com,VPN1
+  - DOMAIN-SUFFIX,oculus.com,VPN1
+  - DOMAIN-SUFFIX,workplace.com,VPN1
+  - DOMAIN-SUFFIX,workplacecdn.com,VPN1
+
+  ## Twitter/X
+  - DOMAIN-SUFFIX,x.com,VPN2
+  - DOMAIN-SUFFIX,twitter.com,VPN2
+  - DOMAIN-SUFFIX,t.co,VPN2
+  - DOMAIN-SUFFIX,twimg.com,VPN2
+  - DOMAIN-SUFFIX,abs.twimg.com,VPN2
+  - DOMAIN-SUFFIX,api.twitter.com,VPN2
+  - DOMAIN-SUFFIX,video.twimg.com,VPN2
+  - DOMAIN-SUFFIX,pbs.twimg.com,VPN2
+  - DOMAIN-SUFFIX,ton.twimg.com,VPN2
+  - DOMAIN-SUFFIX,nitter.net,VPN2
+  - DOMAIN-SUFFIX,pscp.tv,VPN2
+  - DOMAIN-SUFFIX,periscope.tv,VPN2
+  - DOMAIN-SUFFIX,ads-twitter.com,VPN2
+  - DOMAIN-SUFFIX,analytics.twitter.com,VPN2
+  - DOMAIN-SUFFIX,oauth.twitter.com,VPN2
+  - DOMAIN-SUFFIX,syndication.twitter.com,VPN2
+  - DOMAIN-SUFFIX,cdn.syndication.twimg.com,VPN2
+  - DOMAIN-SUFFIX,twitterstat.us,VPN2
+  - DOMAIN-SUFFIX,twttr.com,VPN2
+  - DOMAIN-SUFFIX,twtrdns.net,VPN2
+  - DOMAIN-SUFFIX,twitter.co,VPN2
+  - DOMAIN-SUFFIX,twitterinc.com,VPN2
+  - DOMAIN-KEYWORD,twitter,VPN2
+  - DOMAIN-KEYWORD,grok.com,VPN2
+  - DOMAIN-KEYWORD,accounts.x.ai,VPN2
+
+  ## TikTok
+  - DOMAIN-KEYWORD,tiktok,VPN2
+  - DOMAIN-SUFFIX,tiktokcdn.com,VPN2
+  - DOMAIN-SUFFIX,tiktokv.com,VPN2
+  - DOMAIN-SUFFIX,tiktok.com,VPN2
+  - DOMAIN-SUFFIX,byteoversea.com,VPN2
+  - DOMAIN-SUFFIX,bytedance.net,VPN2
+  - DOMAIN-SUFFIX,bytedance.com,VPN2
+  - DOMAIN-SUFFIX,ibytedtos.com,VPN2
+  - DOMAIN-SUFFIX,byteimg.com,VPN2
+  - DOMAIN-SUFFIX,p16-tiktokcdn-com.akamaized.net,VPN2
+  - DOMAIN-SUFFIX,tik-tokapi.com,VPN2
+  - DOMAIN-SUFFIX,tiktokcdn-us.com,VPN2
+  - DOMAIN-SUFFIX,tiktokcdn-us.com.cdn.cloudflare.net,VPN2
+
+  ## Medium
+  - DOMAIN-SUFFIX,medium.com,VPN1
+  - DOMAIN-SUFFIX,cdn-client.medium.com,VPN1
+  - DOMAIN-SUFFIX,api.medium.com,VPN1
+  - DOMAIN-SUFFIX,images.medium.com,VPN1
+  - DOMAIN-SUFFIX,video.medium.com,VPN1
+  - DOMAIN-SUFFIX,medium.com,VPN1
+
+  ## Recraft
+  - DOMAIN-SUFFIX,recraft.ai,VPN1
+  - DOMAIN-SUFFIX,www.recraft.ai,VPN1
+  - DOMAIN-SUFFIX,generate.recraft.ai,VPN1
+  - DOMAIN-SUFFIX,docs.recraft.ai,VPN1
+  - DOMAIN-SUFFIX,api.recraft.ai,VPN1
+  - DOMAIN-SUFFIX,cdn.recraft.ai,VPN1
+  - DOMAIN-SUFFIX,assets.recraft.ai,VPN1
+  - DOMAIN-SUFFIX,blog.recraft.ai,VPN1
+  - DOMAIN-SUFFIX,support.recraft.ai,VPN1
+  - DOMAIN-SUFFIX,app.recraft.ai,VPN1
+
+  ## Framer
+  - DOMAIN-SUFFIX,framer.website,VPN2
+  - DOMAIN-SUFFIX,framer.photos,VPN2
+  - DOMAIN-SUFFIX,framer.media,VPN2
+  - DOMAIN-SUFFIX,framer.wiki,VPN2
+  - DOMAIN-SUFFIX,sites.framer.app,VPN2
+  - DOMAIN-SUFFIX,framer.com,VPN2
+  - DOMAIN-SUFFIX,framer.cloud,VPN2
+  - DOMAIN-SUFFIX,framerusercontent.com,VPN2
+
+  ## Dia browser
+  # - PROCESS-NAME,Dia,VPN2
+  # - DOMAIN-SUFFIX,segment.io,VPN2
+  # - DOMAIN-SUFFIX,datadoghq.com,VPN2
+  # - DOMAIN-SUFFIX,launchdarkly.com,VPN2
+  # - DOMAIN-SUFFIX,sentry.io,VPN2
+  # - DOMAIN-SUFFIX,segment.com,VPN2
+  # - DOMAIN-SUFFIX,datadoghq.com,VPN2
+
+  - DOMAIN-SUFFIX,ai-service.diabrowser.engineering,VPN2
+  # - DOMAIN-SUFFIX,o298668.ingest.us.sentry.io,VPN2
+  # - DOMAIN-SUFFIX,clientstream.launchdarkly.com,VPN2
+  # - DOMAIN-SUFFIX,mobile.launchdarkly.com,VPN2
+  - DOMAIN-SUFFIX,account.diabrowser.engineering,VPN2
+  # - DOMAIN-SUFFIX,browser-intake-datadoghq.com,VPN2
+  # - DOMAIN-SUFFIX,datadoghq.com,VPN2
+
+  ## Proton mail
+  - DOMAIN-SUFFIX,proton.me,VPN1
+  - DOMAIN-SUFFIX,protonmail.com,VPN1
+  - DOMAIN-SUFFIX,protonmail.ch,VPN1
+  - DOMAIN-SUFFIX,pm.me,VPN1
+  - DOMAIN-SUFFIX,protonvpn.com,VPN1
+  - DOMAIN-SUFFIX,protondrive.com,VPN1
+  - DOMAIN-SUFFIX,protoncalendar.com,VPN1
+  - DOMAIN-SUFFIX,protoncontacts.com,VPN1
+  - DOMAIN-SUFFIX,api.protonmail.ch,VPN1
+  - DOMAIN-SUFFIX,mail.protonmail.ch,VPN1
+  - DOMAIN-SUFFIX,secure.protonmail.com,VPN1
+  - DOMAIN-SUFFIX,auth.protonmail.com,VPN1
+
+  ## Github copilot ai
+  # - DOMAIN-SUFFIX,github.com,DIRECT
+  # - DOMAIN-SUFFIX,githubassets.com,DIRECT
+  # - DOMAIN-SUFFIX,githubusercontent.com,DIRECT
+  # - DOMAIN-SUFFIX,github.dev,DIRECT
+  # - DOMAIN-SUFFIX,api.github.com,DIRECT
+  # - DOMAIN-SUFFIX,copilot.github.com,DIRECT
+  # - DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com,DIRECT
+  # - DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com,DIRECT
+
+  ## Microsoft VS Code
+  - DOMAIN-SUFFIX,visualstudio.com,VPN2
+  - DOMAIN-SUFFIX,visualstudio.microsoft.com,VPN2
+  - DOMAIN-SUFFIX,vsassets.io,VPN2
+  - DOMAIN-SUFFIX,vsblob.visualstudio.com,VPN2
+  - DOMAIN-SUFFIX,vsrm.visualstudio.com,VPN2
+  - DOMAIN-SUFFIX,dev.azure.com,VPN2
+  - DOMAIN-SUFFIX,azure.com,VPN2
+  - DOMAIN-SUFFIX,azureedge.net,VPN2
+  - DOMAIN-SUFFIX,nuget.org,VPN2
+  - DOMAIN-SUFFIX,nugetgallery.blob.core.windows.net,VPN2
+  - DOMAIN-SUFFIX,msdn.microsoft.com,VPN2
+  - DOMAIN-SUFFIX,download.microsoft.com,VPN2
+  - DOMAIN-SUFFIX,download.visualstudio.microsoft.com,VPN2
+  - DOMAIN-SUFFIX,marketplace.visualstudio.com,VPN2
+  - DOMAIN-SUFFIX,go.microsoft.com,VPN2
+  - DOMAIN-SUFFIX,aka.ms,VPN2
+  - DOMAIN-SUFFIX,dl.xamarin.com,VPN2
+  - DOMAIN-SUFFIX,xamarin-downloads.azureedge.net,VPN2
+  - DOMAIN-SUFFIX,login.microsoftonline.com,VPN2
+  - DOMAIN-SUFFIX,live.com,VPN2
+  - DOMAIN-SUFFIX,windows.net,VPN2
+
+  ## OpenAI
+  - DOMAIN-SUFFIX,openai.com,VPN2
+  - DOMAIN-SUFFIX,api.openai.com,VPN2
+  - DOMAIN-SUFFIX,chat.openai.com,VPN2
+  - DOMAIN-SUFFIX,platform.openai.com,VPN2
+  - DOMAIN-SUFFIX,cdn.openai.com,VPN2
+  - DOMAIN-SUFFIX,openai-staging.com,VPN2
+  - DOMAIN-SUFFIX,auth0.openai.com,VPN2
+  - DOMAIN-SUFFIX,auth.openai.com,VPN2
+  - DOMAIN-SUFFIX,chatgpt.com,VPN2
+  - DOMAIN-SUFFIX,sora.com,VPN2
+  - DOMAIN-SUFFIX,cdn.oaistatic.com,VPN2
+  - DOMAIN-SUFFIX,files.oaiusercontent.com,VPN2
+  - DOMAIN-SUFFIX,ios.chat.openai.com,VPN2
+  - DOMAIN-SUFFIX,android.chat.openai.com,VPN2
+  - DOMAIN-SUFFIX,desktop.chat.openai.com,VPN2
+
+  ## Gab Ai
+  - DOMAIN-SUFFIX,gab.ai,VPN1
+  - DOMAIN-SUFFIX,cdn.gab.ai,VPN1
+  - DOMAIN-SUFFIX,api.gab.ai,VPN1
+  - DOMAIN-SUFFIX,media.gab.ai,VPN1
+  - DOMAIN-SUFFIX,assets.gab.ai,VPN1
+  - DOMAIN-SUFFIX,static.gab.ai,VPN1
+  - DOMAIN-SUFFIX,uploads.gab.ai,VPN1
+  - DOMAIN-SUFFIX,chat.gab.ai,VPN1
+  - DOMAIN-SUFFIX,video.gab.ai,VPN1
+  - DOMAIN-SUFFIX,images.gab.ai,VPN1
+
+  ## Claude AI
+  - DOMAIN-SUFFIX,claude.ai,VPN1
+  - DOMAIN-SUFFIX,anthropic.com,VPN1
+  - DOMAIN-SUFFIX,claude.ai.login,VPN1
+  - DOMAIN-SUFFIX,docs.anthropic.com,VPN1
+  - DOMAIN-SUFFIX,support.anthropic.com,VPN1
+  - DOMAIN-SUFFIX,api.anthropic.com,VPN1
+  - DOMAIN-SUFFIX,claude.ai.api,VPN1
+  - DOMAIN-SUFFIX,claude.ai.chat,VPN1
+  - DOMAIN-SUFFIX,claude.ai.docs,VPN1
+  - DOMAIN-SUFFIX,claude.ai.support,VPN1
+  - DOMAIN-SUFFIX,claude.ai.api.anthropic.com,VPN1
+  - DOMAIN-SUFFIX,claude.ai.docs.anthropic.com,VPN1
+  - DOMAIN-SUFFIX,claude.ai.support.anthropic.com,VPN1
+
+  ## Google Gemini
+  - DOMAIN-SUFFIX,gemini.google.com,VPN1
+  - DOMAIN-SUFFIX,ai.google.dev,VPN1
+  - DOMAIN-SUFFIX,googleapis.com,VPN1
+  - DOMAIN-SUFFIX,gstatic.com,VPN1
+  - DOMAIN-SUFFIX,cloud.google.com,VPN1
+  - DOMAIN-SUFFIX,deepmind.google,VPN1
+
+  ## Deepl
+  - DOMAIN-SUFFIX,deepl.com,VPN2
+  - DOMAIN-SUFFIX,www.deepl.com,VPN2
+  - DOMAIN-SUFFIX,api.deepl.com,VPN2
+  - DOMAIN-SUFFIX,api-free.deepl.com,VPN2
+  - DOMAIN-SUFFIX,s.deepl.com,VPN2
+
+  ## Discord
+  - DOMAIN-SUFFIX,discord.com,VPN2
+  - DOMAIN-SUFFIX,discordapp.com,VPN2
+  - DOMAIN-SUFFIX,discord.gg,VPN2
+  - DOMAIN-SUFFIX,discord.media,VPN2
+  - DOMAIN-SUFFIX,discordapp.net,VPN2
+  - DOMAIN-SUFFIX,discordcdn.com,VPN2
+  - DOMAIN-SUFFIX,discord.dev,VPN2
+  - DOMAIN-SUFFIX,discord.new,VPN2
+  - DOMAIN-SUFFIX,discord.gift,VPN2
+  - DOMAIN-SUFFIX,discordstatus.com,VPN2
+  - DOMAIN-SUFFIX,dis.gd,VPN2
+  - DOMAIN-SUFFIX,discord.co,VPN2
+  - DOMAIN-SUFFIX,discord-attachments-uploads-prd.storage.googleapis.com,VPN2
+  - DOMAIN-SUFFIX,discord.design,VPN2
+  - DOMAIN-SUFFIX,discord.gifts,VPN2
+  - DOMAIN-SUFFIX,discord.store,VPN2
+  - DOMAIN-SUFFIX,discord.tools,VPN2
+  - DOMAIN-SUFFIX,discordmerch.com,VPN2
+  - DOMAIN-SUFFIX,discordpartygames.com,VPN2
+  - DOMAIN-SUFFIX,discord-activities.com,VPN2
+  - DOMAIN-SUFFIX,discordactivities.com,VPN2
+  - DOMAIN-SUFFIX,discordsays.com,VPN2
+  - DOMAIN-SUFFIX,discord.st,VPN2
+  - DOMAIN-SUFFIX,discord.com.cdn.cloudflare.net,VPN2
+  - DOMAIN-SUFFIX,discord.gg.cdn.cloudflare.net,VPN2
+  - DOMAIN-SUFFIX,discordapp.net.cdn.cloudflare.net,VPN2
+  - DOMAIN-SUFFIX,googleads.g.doubleclick.net,VPN2
+  - DOMAIN-SUFFIX,frankfurt4932.discord.media,VPN2
+  - IP-CIDR,35.207.139.220/32,VPN2,no-resolve
+  - IP-CIDR,35.192.0.0/12,VPN2,no-resolve
+
+  ## Notion
+  - DOMAIN-SUFFIX,notion.so,VPN2
+  - DOMAIN-SUFFIX,notion.site,VPN2
+  - DOMAIN-SUFFIX,notion-static.com,VPN2
+  - DOMAIN-SUFFIX,notionapi.com,VPN2
+  - DOMAIN-SUFFIX,notionusercontent.com,VPN2
+
+  ## LinkedIn
+  - DOMAIN-SUFFIX,linkedin.com,VPN1
+  - DOMAIN-SUFFIX,licdn.com,VPN1
+  - DOMAIN-SUFFIX,lnkd.in,VPN1
+
+  ## Rhino + Food3Rhino
+  - DOMAIN-SUFFIX,food4rhino.com,VPN2
+  - DOMAIN-SUFFIX,mcneel.com,VPN2
+  - DOMAIN-SUFFIX,security.food4rhino.com,VPN2
+  - DOMAIN-SUFFIX,discourse.mcneel.com,VPN2
+  - DOMAIN-SUFFIX,rhino3d.com,VPN2
+  - DOMAIN-SUFFIX,rhino3d.com.ua,VPN2
+  - DOMAIN-SUFFIX,rhino3d.co.uk,VPN2
+  - DOMAIN-SUFFIX,rhino3d.com.br,VPN2
+  - DOMAIN-SUFFIX,rhino3d.jp,VPN2
+  - DOMAIN-SUFFIX,rhino3d.cn,VPN2
+  - DOMAIN-SUFFIX,rhino3d.asia,VPN2
+  - DOMAIN-SUFFIX,rhino3d.in,VPN2
+  - DOMAIN-SUFFIX,rhino3d.co.nz,VPN2
+  - DOMAIN-SUFFIX,rhino3d.co.za,VPN2
+  - DOMAIN-SUFFIX,rhino3d.com.au,VPN2
+  - DOMAIN-SUFFIX,rhino3d.kr,VPN2
+  - DOMAIN-SUFFIX,rhino3d.it,VPN2
+  - DOMAIN-SUFFIX,rhino3d.fr,VPN2
+  - DOMAIN-SUFFIX,rhino3d.de,VPN2
+  - DOMAIN-SUFFIX,rhino3d.es,VPN2
+  - DOMAIN-SUFFIX,rhino3d.ru,VPN2
+  - DOMAIN-SUFFIX,rhino3d.pl,VPN2
+
+  - IP-CIDR,18.196.188.236/32,VPN2
+  - IP-CIDR,52.29.249.119/32,VPN2
+
+  ## Coursera
+  - DOMAIN-SUFFIX,coursera.org,VPN1
+  - DOMAIN-SUFFIX,coursera.com,VPN1
+  - DOMAIN-SUFFIX,cs-student.coursera.org,VPN1
+
+  ## EdX
+  - DOMAIN-SUFFIX,edx.org,VPN2
+  - DOMAIN-SUFFIX,www.edx.org,VPN2
+  - DOMAIN-SUFFIX,openedx.org,VPN2
+  - DOMAIN-SUFFIX,mobile.edx.org,VPN2
+  - DOMAIN-SUFFIX,api.edx.org,VPN2
+  - DOMAIN-SUFFIX,auth.edx.org,VPN2
+  - DOMAIN-SUFFIX,discovery.edx.org,VPN2
+  - DOMAIN-SUFFIX,studio.edx.org,VPN2
+  - DOMAIN-SUFFIX,course-cdn.edx.org,VPN2
+  - DOMAIN-SUFFIX,cdn.edx.org,VPN2
+  - DOMAIN-SUFFIX,edx-cdn.org,VPN2
+  - DOMAIN-SUFFIX,edxapp.s3.amazonaws.com,VPN2
+  - DOMAIN-SUFFIX,edx-edge.org,VPN2
+  - DOMAIN-SUFFIX,edx-video.net,VPN2
+  - DOMAIN-SUFFIX,edx-analytics.org,VPN2
+  - DOMAIN-SUFFIX,edx-uploads.s3.amazonaws.com,VPN2
+  - DOMAIN-SUFFIX,edx-uat.org,VPN2
+  - DOMAIN-SUFFIX,edx-mktg.org,VPN2
+  - DOMAIN-SUFFIX,edx-ssl.org,VPN2
+  - DOMAIN-SUFFIX,edx-static.net,VPN2
+  - DOMAIN-SUFFIX,edx-registrar.org,VPN2
+  - DOMAIN-SUFFIX,edx-certs.org,VPN2
+  - DOMAIN-SUFFIX,edx-notifications.org,VPN2
+  - DOMAIN-SUFFIX,edx-accounts.org,VPN2
+  - DOMAIN-SUFFIX,edx-assets.org,VPN2
+
+  ## Netflix
+  - DOMAIN-SUFFIX,netflix.com,VPN1
+  - DOMAIN-SUFFIX,nflxext.com,VPN1
+  - DOMAIN-SUFFIX,nflximg.com,VPN1
+  - DOMAIN-SUFFIX,nflxso.net,VPN1
+  - DOMAIN-SUFFIX,nflxvideo.net,VPN1
+
+  ## Elgato
+  - DOMAIN-SUFFIX,elgato.com,VPN2
+  - DOMAIN-SUFFIX,www.elgato.com,VPN2
+  - DOMAIN-SUFFIX,help.elgato.com,VPN2
+  - DOMAIN-SUFFIX,downloads.elgato.com,VPN2
+  - DOMAIN-SUFFIX,cdn.elgato.com,VPN2
+  - DOMAIN-SUFFIX,assets.elgato.com,VPN2
+
+  ## Torrents
+  - DOMAIN-SUFFIX,mail.rutracker.org,VPN1
+  - DOMAIN-SUFFIX,maintracker.org,VPN1
+  - DOMAIN-SUFFIX,rutracker.cc,VPN1
+  - DOMAIN-SUFFIX,rutracker.com,VPN1
+  - DOMAIN-SUFFIX,rutracker.lib,VPN1
+  - DOMAIN-SUFFIX,rutracker.me,VPN1
+  - DOMAIN-SUFFIX,rutracker.net,VPN1
+  - DOMAIN-SUFFIX,rutracker.nl,VPN1
+  - DOMAIN-SUFFIX,rutracker.org,VPN1
+  - DOMAIN-SUFFIX,rutracker.ru,VPN1
+  - DOMAIN-SUFFIX,wiki.rutracker.org,VPN1
+  - DOMAIN-SUFFIX,www.rutracker.org,VPN1
+  - DOMAIN-SUFFIX,rutor.info,VPN1
+  - DOMAIN-SUFFIX,rutor.org,VPN1
+  - DOMAIN-SUFFIX,rutor.is,VPN1
+  - DOMAIN-SUFFIX,rutor.nl,VPN1
+  - DOMAIN-SUFFIX,nnmclub.to,VPN1
+  - DOMAIN-SUFFIX,nnmclub.me,VPN1
+  - DOMAIN-SUFFIX,nnmclub.ro,VPN1
+  - DOMAIN-SUFFIX,fast-torrent.ru,VPN1
+  - DOMAIN-SUFFIX,fast-torrent.su,VPN1
+  - DOMAIN-SUFFIX,fast-torrent.org,VPN1
+  - DOMAIN-SUFFIX,tapochek.net,VPN1
+  - DOMAIN-SUFFIX,tapochek.org,VPN1
+  - DOMAIN-SUFFIX,tapochek.me,VPN1
+  - DOMAIN-SUFFIX,kinozal.tv,VPN1
+  - DOMAIN-SUFFIX,kinozal.me,VPN1
+  - DOMAIN-SUFFIX,kinozal.su,VPN1
+  - DOMAIN-SUFFIX,megapeer.org,VPN1
+  - DOMAIN-SUFFIX,megapeer.net,VPN1
+  - DOMAIN-SUFFIX,megapeer.me,VPN1
+  - DOMAIN-SUFFIX,bitru.org,VPN1
+  - DOMAIN-SUFFIX,bitru.net,VPN1
+  - DOMAIN-SUFFIX,bitru.me,VPN1
+  - DOMAIN-SUFFIX,booktracker.org,VPN1
+  - DOMAIN-SUFFIX,booktracker.net,VPN1
+  - DOMAIN-SUFFIX,booktracker.me,VPN1
+  - DOMAIN-SUFFIX,tracker.pirate.su,VPN1
+  - DOMAIN-SUFFIX,tracker.piratebay.org,VPN1
+  - DOMAIN-SUFFIX,tracker.piratebay.net,VPN1
+
+  ## PirateStreaming
+  - DOMAIN-SUFFIX,gidonline.io,VPN2
+  - DOMAIN-SUFFIX,gidonline.eu,VPN2
+  - DOMAIN-SUFFIX,gidonline.club,VPN2
+  - DOMAIN-SUFFIX,hdrezka.ag,VPN2
+  - DOMAIN-SUFFIX,hdrezka.me,VPN2
+  - DOMAIN-SUFFIX,hdrezka.tv,VPN2
+  - DOMAIN-SUFFIX,kinogo.la,VPN2
+  - DOMAIN-SUFFIX,kinogo.zone,VPN2
+  - DOMAIN-SUFFIX,kinogo.club,VPN2
+  - DOMAIN-SUFFIX,baskino.me,VPN2
+  - DOMAIN-SUFFIX,baskino.club,VPN2
+  - DOMAIN-SUFFIX,baskino.tv,VPN2
+  - DOMAIN-SUFFIX,zetflix.tv,VPN2
+  - DOMAIN-SUFFIX,zetflix.me,VPN2
+  - DOMAIN-SUFFIX,zetflix.com,VPN2
+  - DOMAIN-SUFFIX,kinokrad.cc,VPN2
+  - DOMAIN-SUFFIX,kinokrad.net,VPN2
+  - DOMAIN-SUFFIX,kinokrad.co,VPN2
+  - DOMAIN-SUFFIX,kinoxa.cc,VPN2
+  - DOMAIN-SUFFIX,kinoxa.net,VPN2
+  - DOMAIN-SUFFIX,kinoxa.co,VPN2
+  - DOMAIN-SUFFIX,kinopub.me,VPN2
+  - DOMAIN-SUFFIX,kinopub.net,VPN2
+  - DOMAIN-SUFFIX,kinopub.tv,VPN2
+  - DOMAIN-SUFFIX,filmix.ac,VPN2
+  - DOMAIN-SUFFIX,filmix.me,VPN2
+  - DOMAIN-SUFFIX,filmix.net,VPN2
+  - DOMAIN-SUFFIX,seasonvar.ru,VPN2
+  - DOMAIN-SUFFIX,seasonvar.tv,VPN2
+  - DOMAIN-SUFFIX,seasonvar.net,VPN2
+
+  ## Autodesk
+  - DOMAIN-SUFFIX,autodesk.com,VPN2
+  - DOMAIN-SUFFIX,autodesk.net,VPN2
+  - DOMAIN-SUFFIX,autodesk360.com,VPN2
+  - DOMAIN-SUFFIX,autodeskfusion.com,VPN2
+  - DOMAIN-SUFFIX,autodeskplm360.net,VPN2
+  - DOMAIN-SUFFIX,autodeskplm360.com,VPN2
+  - DOMAIN-SUFFIX,download.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,adsklms.com,VPN2
+  - DOMAIN-SUFFIX,adsk-oss.com,VPN2
+  - DOMAIN-SUFFIX,a360.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,accounts.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,services.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,help.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,knowledge.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,autodesk.com,VPN2
+  - DOMAIN-SUFFIX,autodesk.net,VPN2
+  - DOMAIN-SUFFIX,autodesk360.com,VPN2
+  - DOMAIN-SUFFIX,autodeskfusion.com,VPN2
+  - DOMAIN-SUFFIX,autodeskplm360.net,VPN2
+  - DOMAIN-SUFFIX,autodeskplm360.com,VPN2
+  - DOMAIN-SUFFIX,download.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,adsklms.com,VPN2
+  - DOMAIN-SUFFIX,adsk-oss.com,VPN2
+  - DOMAIN-SUFFIX,a360.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,accounts.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,services.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,help.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,knowledge.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,autodesk.com,VPN2
+  - DOMAIN-SUFFIX,autodesk.net,VPN2
+  - DOMAIN-SUFFIX,autodesk360.com,VPN2
+  - DOMAIN-SUFFIX,autodeskfusion.com,VPN2
+  - DOMAIN-SUFFIX,autodeskplm360.net,VPN2
+  - DOMAIN-SUFFIX,autodeskplm360.com,VPN2
+  - DOMAIN-SUFFIX,download.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,adsklms.com,VPN2
+  - DOMAIN-SUFFIX,adsk-oss.com,VPN2
+  - DOMAIN-SUFFIX,a360.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,accounts.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,services.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,help.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,knowledge.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,autodesk.com,VPN2
+  - DOMAIN-SUFFIX,autodesk.net,VPN2
+  - DOMAIN-SUFFIX,autodesk360.com,VPN2
+  - DOMAIN-SUFFIX,autodeskfusion.com,VPN2
+  - DOMAIN-SUFFIX,autodeskplm360.net,VPN2
+  - DOMAIN-SUFFIX,autodeskplm360.com,VPN2
+  - DOMAIN-SUFFIX,download.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,adsklms.com,VPN2
+  - DOMAIN-SUFFIX,adsk-oss.com,VPN2
+  - DOMAIN-SUFFIX,a360.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,accounts.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,services.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,help.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,knowledge.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,autodesk.com,VPN2
+  - DOMAIN-SUFFIX,autodesk.net,VPN2
+  - DOMAIN-SUFFIX,autodesk360.com,VPN2
+  - DOMAIN-SUFFIX,autodeskfusion.com,VPN2
+  - DOMAIN-SUFFIX,autodeskplm360.net,VPN2
+  - DOMAIN-SUFFIX,autodeskplm360.com,VPN2
+  - DOMAIN-SUFFIX,download.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,adsklms.com,VPN2
+  - DOMAIN-SUFFIX,adsk-oss.com,VPN2
+  - DOMAIN-SUFFIX,a360.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,accounts.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,services.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,help.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,knowledge.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,autodesk.com,VPN2
+  - DOMAIN-SUFFIX,autodesk.net,VPN2
+  - DOMAIN-SUFFIX,autodesk360.com,VPN2
+  - DOMAIN-SUFFIX,autodeskfusion.com,VPN2
+  - DOMAIN-SUFFIX,autodeskplm360.net,VPN2
+  - DOMAIN-SUFFIX,autodeskplm360.com,VPN2
+  - DOMAIN-SUFFIX,download.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,adsklms.com,VPN2
+  - DOMAIN-SUFFIX,adsk-oss.com,VPN2
+  - DOMAIN-SUFFIX,a360.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,accounts.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,services.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,help.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,knowledge.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,autodesk.com,VPN2
+  - DOMAIN-SUFFIX,autodesk.net,VPN2
+  - DOMAIN-SUFFIX,autodesk360.com,VPN2
+  - DOMAIN-SUFFIX,autodeskfusion.com,VPN2
+  - DOMAIN-SUFFIX,autodeskplm360.net,VPN2
+  - DOMAIN-SUFFIX,autodeskplm360.com,VPN2
+  - DOMAIN-SUFFIX,download.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,adsklms.com,VPN2
+  - DOMAIN-SUFFIX,adsk-oss.com,VPN2
+  - DOMAIN-SUFFIX,a360.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,accounts.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,services.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,help.autodesk.com,VPN2
+  - DOMAIN-SUFFIX,knowledge.autodesk.com,VPN2
+
+  ## Onshape
+  - DOMAIN-SUFFIX,onshape.com,VPN2
+  - DOMAIN-SUFFIX,cad.onshape.com,VPN2
+  - DOMAIN-SUFFIX,cad-usw2.onshape.com,VPN2
+  - DOMAIN-SUFFIX,cad-euw1.onshape.com,VPN2
+  - DOMAIN-SUFFIX,cad-aps1.onshape.com,VPN2
+  - DOMAIN-SUFFIX,cad-aps2.onshape.com,VPN2
+  - DOMAIN-SUFFIX,cad-apn1.onshape.com,VPN2
+  - DOMAIN-SUFFIX,outbound-email.onshape.com,VPN2
+
+  ## Finance
+  - DOMAIN-SUFFIX,shopify.com,VPN1
+  - DOMAIN-SUFFIX,*.shopify.com,VPN1
+  - DOMAIN-SUFFIX,paypal.com,VPN1
+  - DOMAIN-SUFFIX,*.paypal.com,VPN1
+  - DOMAIN-SUFFIX,stripe.com,VPN1
+  - DOMAIN-SUFFIX,*.stripe.com,VPN1
+  - DOMAIN-SUFFIX,squareup.com,VPN1
+  - DOMAIN-SUFFIX,*.squareup.com,VPN1
+  - DOMAIN-SUFFIX,adyen.com,VPN1
+  - DOMAIN-SUFFIX,*.adyen.com,VPN1
+  - DOMAIN-SUFFIX,payoneer.com,VPN1
+  - DOMAIN-SUFFIX,*.payoneer.com,VPN1
+  - DOMAIN-SUFFIX,wise.com,VPN1
+  - DOMAIN-SUFFIX,*.wise.com,VPN1
+  - DOMAIN-SUFFIX,skrill.com,VPN1
+  - DOMAIN-SUFFIX,*.skrill.com,VPN1
+  - DOMAIN-SUFFIX,neteller.com,VPN1
+  - DOMAIN-SUFFIX,*.neteller.com,VPN1
+  - DOMAIN-SUFFIX,2checkout.com,VPN1
+  - DOMAIN-SUFFIX,*.2checkout.com,VPN1
+  - DOMAIN-SUFFIX,authorize.net,VPN1
+  - DOMAIN-SUFFIX,*.authorize.net,VPN1
+  - DOMAIN-SUFFIX,braintreepayments.com,VPN1
+  - DOMAIN-SUFFIX,*.braintreepayments.com,VPN1
+  - DOMAIN-SUFFIX,worldpay.com,VPN1
+  - DOMAIN-SUFFIX,*.worldpay.com,VPN1
+  - DOMAIN-SUFFIX,klarna.com,VPN1
+  - DOMAIN-SUFFIX,*.klarna.com,VPN1
+  - DOMAIN-SUFFIX,afterpay.com,VPN1
+  - DOMAIN-SUFFIX,*.afterpay.com,VPN1
+  - DOMAIN-SUFFIX,sezzle.com,VPN1
+  - DOMAIN-SUFFIX,*.sezzle.com,VPN1
+  - DOMAIN-SUFFIX,affirm.com,VPN1
+  - DOMAIN-SUFFIX,*.affirm.com,VPN1
+  - DOMAIN-SUFFIX,zip.co,VPN1
+  - DOMAIN-SUFFIX,*.zip.co,VPN1
+  - DOMAIN-SUFFIX,splitit.com,VPN1
+  - DOMAIN-SUFFIX,*.splitit.com,VPN1
+  - DOMAIN-SUFFIX,gocardless.com,VPN1
+  - DOMAIN-SUFFIX,*.gocardless.com,VPN1
+  - DOMAIN-SUFFIX,paddle.com,VPN1
+  - DOMAIN-SUFFIX,*.paddle.com,VPN1
+  - DOMAIN-SUFFIX,fastspring.com,VPN1
+  - DOMAIN-SUFFIX,*.fastspring.com,VPN1
+  - DOMAIN-SUFFIX,bluesnap.com,VPN1
+  - DOMAIN-SUFFIX,*.bluesnap.com,VPN1
+  - DOMAIN-SUFFIX,payza.com,VPN1
+  - DOMAIN-SUFFIX,*.payza.com,VPN1
+  - DOMAIN-SUFFIX,dwolla.com,VPN1
+  - DOMAIN-SUFFIX,*.dwolla.com,VPN1
+  - DOMAIN-SUFFIX,venmo.com,VPN1
+  - DOMAIN-SUFFIX,*.venmo.com,VPN1
+  - DOMAIN-SUFFIX,zellepay.com,VPN1
+  - DOMAIN-SUFFIX,*.zellepay.com,VPN1
+  - DOMAIN-SUFFIX,cash.app,VPN1
+  - DOMAIN-SUFFIX,*.cash.app,VPN1
+  - DOMAIN-SUFFIX,revolut.com,VPN1
+  - DOMAIN-SUFFIX,*.revolut.com,VPN1
+  - DOMAIN-SUFFIX,n26.com,VPN1
+  - DOMAIN-SUFFIX,*.n26.com,VPN1
+  - DOMAIN-SUFFIX,monzo.com,VPN1
+  - DOMAIN-SUFFIX,*.monzo.com,VPN1
+  - DOMAIN-SUFFIX,starlingbank.com,VPN1
+  - DOMAIN-SUFFIX,*.starlingbank.com,VPN1
+  - DOMAIN-SUFFIX,transfergo.com,VPN1
+  - DOMAIN-SUFFIX,*.transfergo.com,VPN1
+  - DOMAIN-SUFFIX,remitly.com,VPN1
+  - DOMAIN-SUFFIX,*.remitly.com,VPN1
+  - DOMAIN-SUFFIX,worldremit.com,VPN1
+  - DOMAIN-SUFFIX,*.worldremit.com,VPN1
+  - DOMAIN-SUFFIX,westernunion.com,VPN1
+  - DOMAIN-SUFFIX,*.westernunion.com,VPN1
+  - DOMAIN-SUFFIX,moneygram.com,VPN1
+  - DOMAIN-SUFFIX,*.moneygram.com,VPN1
+  - DOMAIN-SUFFIX,riamoneytransfer.com,VPN1
+  - DOMAIN-SUFFIX,*.riamoneytransfer.com,VPN1
+  - DOMAIN-SUFFIX,paysend.com,VPN1
+  - DOMAIN-SUFFIX,*.paysend.com,VPN1
+  - DOMAIN-SUFFIX,remit2india.com,VPN1
+  - DOMAIN-SUFFIX,*.remit2india.com,VPN1
+  - DOMAIN-SUFFIX,xoom.com,VPN1
+  - DOMAIN-SUFFIX,*.xoom.com,VPN1
+  - DOMAIN-SUFFIX,ofx.com,VPN1
+  - DOMAIN-SUFFIX,*.ofx.com,VPN1
+  - DOMAIN-SUFFIX,currencyfair.com,VPN1
+  - DOMAIN-SUFFIX,*.currencyfair.com,VPN1
+
+  ## Default rule to go directly without proxy
+  ##- DOMAIN-SUFFIX,google.com,DIRECT
+  ##- DOMAIN-KEYWORD,google,DIRECT
+  ##- DOMAIN,google.com,DIRECT
+
+  - DOMAIN,euw23-0.playlist.ttvnw.net,DIRECT
+  - DOMAIN,euw23-0.playlist.ttvnw.net,DIRECT
+  - DOMAIN,gql.twitch.tv,DIRECT
+  - DOMAIN,hermes.twitch.tv,DIRECT
+
+  - DOMAIN,push.apple.com,DIRECT
+  - DOMAIN-SUFFIX,apple.com,DIRECT
+
+  - DOMAIN,registry.ollama.ai,DIRECT
+  - DOMAIN-SUFFIX,ollama.ai,DIRECT
+
+  - DOMAIN-SUFFIX,apple.com,DIRECT
+  - DOMAIN-SUFFIX,icloud.com,DIRECT
+  - DOMAIN-SUFFIX,me.com,DIRECT
+
+  - DOMAIN-SUFFIX,ad.com,REJECT
+  - GEOIP,RU,DIRECT
+  - MATCH,DIRECT
