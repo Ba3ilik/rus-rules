@@ -698,4 +698,3 @@ payload:
 
   - DOMAIN-SUFFIX,ad.com,REJECT
   - GEOIP,RU,DIRECT
-  - MATCH,DIRECT
