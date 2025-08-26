@@ -12,4 +12,10 @@ payload:
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,me.com
+  
+  - DOMAIN-SUFFIX,parking.mos.ru
+  - DOMAIN-SUFFIX,lk.parking.mos.ru
+  - DOMAIN-SUFFIX,login.mos.ru
+  - DOMAIN-SUFFIX,esia.gosuslugi.ru
+
   - GEOIP,RU
