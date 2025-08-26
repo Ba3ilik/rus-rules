@@ -26,10 +26,7 @@ payload:
 
   - DOMAIN-SUFFIX,crunchbase.com
 
-  - DOMAIN-SUFFIX,clientstream.launchdarkly.com,DIRECT
 
-  - DOMAIN-SUFFIX,accounts.rhino3d.com,REJECT
-  - DOMAIN-SUFFIX,api.mcneel.com,REJECT
 
   ## Google
   ##- DOMAIN-SUFFIX,google.com
