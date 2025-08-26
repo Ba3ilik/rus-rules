@@ -1,2 +1,15 @@
 payload:
 
+  - DOMAIN-SUFFIX,clientstream.launchdarkly.com
+  - DOMAIN,euw23-0.playlist.ttvnw.net
+  - DOMAIN,euw23-0.playlist.ttvnw.net
+  - DOMAIN,gql.twitch.tv
+  - DOMAIN,hermes.twitch.tv
+  - DOMAIN,push.apple.com
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN,registry.ollama.ai
+  - DOMAIN-SUFFIX,ollama.ai
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,me.com
+  - GEOIP,RU
