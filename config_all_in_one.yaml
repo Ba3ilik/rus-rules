@@ -28,7 +28,7 @@ payload:
 
   - DOMAIN-SUFFIX,crunchbase.com
 
-
+  - DOMAIN-SUFFIX,xtool.com
 
   ## Google
   ##- DOMAIN-SUFFIX,google.com
