@@ -162,6 +162,17 @@ payload:
   - DOMAIN-SUFFIX,framer.cloud
   - DOMAIN-SUFFIX,framerusercontent.com
 
+  ## Canva
+  - DOMAIN-SUFFIX,canva.com
+  - DOMAIN-SUFFIX,my.canva.site
+  - DOMAIN-SUFFIX,design.canva.com
+  - DOMAIN-SUFFIX,static.canva.com
+  - DOMAIN-SUFFIX,docs.canva.com
+  - DOMAIN-SUFFIX,publish.canva.com
+  - DOMAIN-SUFFIX,help.canva.com
+  - DOMAIN-SUFFIX,api.canva.com
+  - DOMAIN-SUFFIX,assets.canva.com
+
   ## Dia browser
   # - PROCESS-NAME,Dia
   # - DOMAIN-SUFFIX,segment.io
