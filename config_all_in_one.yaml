@@ -30,6 +30,13 @@ payload:
 
   - DOMAIN-SUFFIX,xtool.com
 
+  - DOMAIN-SUFFIX,cadillac.com
+  - DOMAIN-SUFFIX,m.cadillac.com
+  - DOMAIN-SUFFIX,owners.cadillac.com
+  - DOMAIN-SUFFIX,shopping.cadillac.com
+  - DOMAIN-SUFFIX,legacy.cadillac.com
+  - DOMAIN-SUFFIX,my.cadillac.com
+
   ## Google
   ##- DOMAIN-SUFFIX,google.com
 
