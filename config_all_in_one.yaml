@@ -38,6 +38,7 @@ payload:
   - DOMAIN-SUFFIX,my.cadillac.com
 
   - DOMAIN-SUFFIX,habr.com
+  - DOMAIN-SUFFIX,assets.habr.com
   - DOMAIN-SUFFIX,qna.habr.com
   - DOMAIN-SUFFIX,career.habr.com
   - DOMAIN-SUFFIX,freelance.habr.com
