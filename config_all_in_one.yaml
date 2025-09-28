@@ -37,6 +37,8 @@ payload:
   - DOMAIN-SUFFIX,legacy.cadillac.com
   - DOMAIN-SUFFIX,my.cadillac.com
 
+  - DOMAIN-SUFFIX,habr.com
+
   ## Google
   ##- DOMAIN-SUFFIX,google.com
 
