@@ -38,6 +38,17 @@ payload:
   - DOMAIN-SUFFIX,my.cadillac.com
 
   - DOMAIN-SUFFIX,habr.com
+  - DOMAIN-SUFFIX,qna.habr.com
+  - DOMAIN-SUFFIX,career.habr.com
+  - DOMAIN-SUFFIX,freelance.habr.com
+  - DOMAIN-SUFFIX,account.habr.com
+  - DOMAIN-SUFFIX,m.habr.com
+  - DOMAIN-SUFFIX,u.habr.com
+  - DOMAIN-SUFFIX,kiosk.habr.com
+  - DOMAIN-SUFFIX,embedd.srv.habr.com
+  - DOMAIN-SUFFIX,company.habr.com
+  - DOMAIN-SUFFIX,habrastorage.org
+  - DOMAIN-SUFFIX,toster.ru
 
   ## Google
   ##- DOMAIN-SUFFIX,google.com
