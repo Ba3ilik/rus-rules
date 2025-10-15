@@ -93,6 +93,11 @@ payload:
   - DOMAIN-SUFFIX,instagram-portal.fb.com
   - DOMAIN-SUFFIX,z-p3-instagram-portal.fb.com
   - DOMAIN-SUFFIX,z-p42-instagram-portal.fb.com
+  - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,scontent.xx.fbcdn.net
+  - DOMAIN-SUFFIX,akamaihd.net
+  - DOMAIN-SUFFIX,z-p42-chat-e2ee-ig.facebook.com
+  - DOMAIN-SUFFIX,mqtt-ig-p4.facebook.com
 
   ## Facebook
   - DOMAIN-SUFFIX,facebook.com
