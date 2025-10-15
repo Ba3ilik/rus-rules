@@ -99,6 +99,13 @@ payload:
   - DOMAIN-SUFFIX,z-p42-chat-e2ee-ig.facebook.com
   - DOMAIN-SUFFIX,mqtt-ig-p4.facebook.com
 
+  - DOMAIN-SUFFIX,video.cdninstagram.com
+  - DOMAIN-SUFFIX,instagram.fxyz1-1.fna.fbcdn.net
+  - DOMAIN-SUFFIX,instagram.fxyz2-1.fna.fbcdn.net
+  - DOMAIN-SUFFIX,instagram.fxxx1-1.fna.fbcdn.net
+  - DOMAIN-SUFFIX,edge-video.instagram.com
+  - DOMAIN-SUFFIX,video.xx.fbcdn.net
+
   ## Facebook
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,fbcdn.net
