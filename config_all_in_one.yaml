@@ -37,20 +37,6 @@ payload:
   - DOMAIN-SUFFIX,legacy.cadillac.com
   - DOMAIN-SUFFIX,my.cadillac.com
 
-  - DOMAIN-SUFFIX,habr.com
-  - DOMAIN-SUFFIX,assets.habr.com
-  - DOMAIN-SUFFIX,qna.habr.com
-  - DOMAIN-SUFFIX,career.habr.com
-  - DOMAIN-SUFFIX,freelance.habr.com
-  - DOMAIN-SUFFIX,account.habr.com
-  - DOMAIN-SUFFIX,m.habr.com
-  - DOMAIN-SUFFIX,u.habr.com
-  - DOMAIN-SUFFIX,kiosk.habr.com
-  - DOMAIN-SUFFIX,embedd.srv.habr.com
-  - DOMAIN-SUFFIX,company.habr.com
-  - DOMAIN-SUFFIX,habrastorage.org
-  - DOMAIN-SUFFIX,toster.ru
-
   ## Google
   ##- DOMAIN-SUFFIX,google.com
 
@@ -101,6 +87,12 @@ payload:
   - DOMAIN-SUFFIX,ig.me
   - DOMAIN-SUFFIX,instagr.am
   - DOMAIN-SUFFIX,igsonar.com
+  - DOMAIN-SUFFIX,i.instagram.com
+  - DOMAIN-SUFFIX,z-p42-chat-e2ee-ig.facebook.com
+  - DOMAIN-SUFFIX,mqtt-ig-p4.facebook.com
+  - DOMAIN-SUFFIX,instagram-portal.fb.com
+  - DOMAIN-SUFFIX,z-p3-instagram-portal.fb.com
+  - DOMAIN-SUFFIX,z-p42-instagram-portal.fb.com
 
   ## Facebook
   - DOMAIN-SUFFIX,facebook.com
