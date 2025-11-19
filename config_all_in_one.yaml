@@ -31,6 +31,20 @@ payload:
   - DOMAIN-SUFFIX,xtool.com
 
   - DOMAIN‑SUFFIX,ikea.com
+  - DOMAIN‑SUFFIX,www.ikea.com
+  - DOMAIN‑SUFFIX,accounts.ikea.com
+  - DOMAIN‑SUFFIX,api.dexf.ikea.com
+  - DOMAIN‑SUFFIX,api.home‑design.ikea.com
+  - DOMAIN‑SUFFIX,api.ingka.ikea.com
+  - DOMAIN‑SUFFIX,asset.inter.ikea.com
+  - DOMAIN‑SUFFIX,content.dexf.ikea.com
+  - DOMAIN‑SUFFIX,csp.ikea.com
+  - DOMAIN‑SUFFIX,image.news.email.ikea.com
+  - DOMAIN‑SUFFIX,kitchen.planner.ikea.com
+  - DOMAIN‑SUFFIX,news.email.ikea.com
+  - DOMAIN‑SUFFIX,planner.ikea.com
+  - DOMAIN‑SUFFIX,ikea.net
+  - DOMAIN‑SUFFIX,ingka.com
 
   - DOMAIN-SUFFIX,cadillac.com
   - DOMAIN-SUFFIX,m.cadillac.com
