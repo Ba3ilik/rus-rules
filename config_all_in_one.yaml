@@ -261,6 +261,24 @@ payload:
   # - DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com,DIRECT
   # - DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com,DIRECT
 
+  ## Github
+  - DOMAIN‑SUFFIX,github.com
+  - DOMAIN‑SUFFIX,www.github.com
+  - DOMAIN‑SUFFIX,api.github.com
+  - DOMAIN‑SUFFIX,docs.github.com
+  - DOMAIN‑SUFFIX,status.github.com
+  - DOMAIN‑SUFFIX,githubstatus.com
+  - DOMAIN‑SUFFIX,github.io
+  - DOMAIN‑SUFFIX,raw.githubusercontent.com
+  - DOMAIN‑SUFFIX,githubusercontent.com
+  - DOMAIN‑SUFFIX,gist.github.com
+  - DOMAIN‑SUFFIX,gist.githubusercontent.com
+  - DOMAIN‑SUFFIX,assets.github.com
+  - DOMAIN‑SUFFIX,avatars.githubusercontent.com
+  - DOMAIN‑SUFFIX,camo.githubusercontent.com
+  - DOMAIN‑SUFFIX,media.githubusercontent.com
+
+
   ## Microsoft VS Code
   - DOMAIN-SUFFIX,visualstudio.com
   - DOMAIN-SUFFIX,visualstudio.microsoft.com
