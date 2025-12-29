@@ -277,7 +277,7 @@ payload:
   - DOMAIN‑SUFFIX,avatars.githubusercontent.com
   - DOMAIN‑SUFFIX,camo.githubusercontent.com
   - DOMAIN‑SUFFIX,media.githubusercontent.com
-
+  - DOMAIN‑SUFFIX,release-assets.githubusercontent.com
 
   ## Microsoft VS Code
   - DOMAIN-SUFFIX,visualstudio.com
