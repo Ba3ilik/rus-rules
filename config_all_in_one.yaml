@@ -265,7 +265,7 @@ payload:
   - DOMAIN-SUFFIX,privacy.arc.net
   - DOMAIN-SUFFIX,terms-of-use.arc.net
 
-  - DOMAIN-SUFFIX,webresultproxy.diabrowser.engineering
+  - DOMAIN-SUFFIX,webresultproxy.diabrowser.engineering:443
 
   - DOMAIN-SUFFIX,thebrowser.company
   - DOMAIN-SUFFIX,www.thebrowser.company
