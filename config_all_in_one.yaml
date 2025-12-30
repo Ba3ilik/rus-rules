@@ -251,6 +251,35 @@ payload:
   - DOMAIN-SUFFIX,secure.protonmail.com
   - DOMAIN-SUFFIX,auth.protonmail.com
 
+  ## Arc
+  - DOMAIN-SUFFIX,arc.net
+  - DOMAIN-SUFFIX,www.arc.net
+  - DOMAIN-SUFFIX,arc-search.arc.net
+  - DOMAIN-SUFFIX,start.arc.net
+  - DOMAIN-SUFFIX,members.arc.net
+  - DOMAIN-SUFFIX,resources.arc.net
+  - DOMAIN-SUFFIX,help.arc.net
+  - DOMAIN-SUFFIX,download.arc.net
+  - DOMAIN-SUFFIX,blog.arc.net
+  - DOMAIN-SUFFIX,security.arc.net
+  - DOMAIN-SUFFIX,privacy.arc.net
+  - DOMAIN-SUFFIX,terms-of-use.arc.net
+
+  - DOMAIN-SUFFIX,thebrowser.company
+  - DOMAIN-SUFFIX,www.thebrowser.company
+  # Синхронизация и сервисы аккаунтов
+  - DOMAIN-SUFFIX,auth.arc.net
+  - DOMAIN-SUFFIX,login.arc.net
+  - DOMAIN-SUFFIX,sync.arc.net
+  - DOMAIN-SUFFIX,account.arc.net
+  # CDN / статика (например, для ассетов, иконок, стилей)
+  - DOMAIN-SUFFIX,cdn.arc.net
+  - DOMAIN-SUFFIX,assets.arc.net
+  - DOMAIN-SUFFIX,static.arc.net
+  # Потенциально нужные для API/AI‑функций
+  - DOMAIN-SUFFIX,api.arc.net
+  - DOMAIN-SUFFIX,ai.arc.net
+
   ## Github copilot ai
   # - DOMAIN-SUFFIX,github.com,DIRECT
   # - DOMAIN-SUFFIX,githubassets.com,DIRECT
