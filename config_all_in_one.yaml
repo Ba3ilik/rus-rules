@@ -511,7 +511,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.elgato.com
   - DOMAIN-SUFFIX,assets.elgato.com
 
-  # Artstation
+  ## Artstation
   - DOMAIN-SUFFIX,artstation.com
   - DOMAIN-SUFFIX,www.artstation.com
   - DOMAIN-SUFFIX,cdna.artstation.com
@@ -519,18 +519,14 @@ payload:
   - DOMAIN-SUFFIX,assets.artstation.com
   - DOMAIN-SUFFIX,static.artstation.com
   - DOMAIN-SUFFIX,media.artstation.com
-
   - DOMAIN-SUFFIX,api.artstation.com
   - DOMAIN-SUFFIX,accounts.artstation.com
   - DOMAIN-SUFFIX,auth.artstation.com
-
   - DOMAIN-SUFFIX,video.artstation.com
   - DOMAIN-SUFFIX,player.vimeo.com
   - DOMAIN-SUFFIX,vimeo.com
-
   - DOMAIN-SUFFIX,marketplace.artstation.com
   - DOMAIN-SUFFIX,store.artstation.com
-
 
 
 
