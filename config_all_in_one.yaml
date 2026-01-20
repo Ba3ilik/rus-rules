@@ -538,6 +538,11 @@ payload:
   - DOMAIN-SUFFIX,auth.producthunt.com
   - DOMAIN-SUFFIX,notifications.producthunt.com
 
+  ## Shots
+  - DOMAIN-SUFFIX,shots.so
+  - DOMAIN-SUFFIX,www.shots.so
+  - DOMAIN-SUFFIX,api.shots.so
+
   ## Torrents
   - DOMAIN-SUFFIX,mail.rutracker.org
   - DOMAIN-SUFFIX,maintracker.org
