@@ -526,7 +526,17 @@ payload:
   - DOMAIN-SUFFIX,marketplace.artstation.com
   - DOMAIN-SUFFIX,store.artstation.com
 
-
+  ## Producthunt
+  - DOMAIN-SUFFIX,producthunt.com
+  - DOMAIN-SUFFIX,www.producthunt.com
+  - DOMAIN-SUFFIX,api.producthunt.com
+  - DOMAIN-SUFFIX,ph-files.imgix.net
+  - DOMAIN-SUFFIX,ph-static.imgix.net
+  - DOMAIN-SUFFIX,assets.producthunt.com
+  - DOMAIN-SUFFIX,static.producthunt.com
+  - DOMAIN-SUFFIX,accounts.producthunt.com
+  - DOMAIN-SUFFIX,auth.producthunt.com
+  - DOMAIN-SUFFIX,notifications.producthunt.com
 
   ## Torrents
   - DOMAIN-SUFFIX,mail.rutracker.org
