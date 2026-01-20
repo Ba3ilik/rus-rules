@@ -523,8 +523,6 @@ payload:
   - DOMAIN-SUFFIX,accounts.artstation.com
   - DOMAIN-SUFFIX,auth.artstation.com
   - DOMAIN-SUFFIX,video.artstation.com
-  - DOMAIN-SUFFIX,player.vimeo.com
-  - DOMAIN-SUFFIX,vimeo.com
   - DOMAIN-SUFFIX,marketplace.artstation.com
   - DOMAIN-SUFFIX,store.artstation.com
 
