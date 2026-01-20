@@ -542,6 +542,8 @@ payload:
   - DOMAIN-SUFFIX,shots.so
   - DOMAIN-SUFFIX,www.shots.so
   - DOMAIN-SUFFIX,api.shots.so
+  - DOMAIN-SUFFIX,images.unsplash.com
+  - DOMAIN-SUFFIX,assets.shots.so
 
   ## Torrents
   - DOMAIN-SUFFIX,mail.rutracker.org
