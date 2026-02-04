@@ -293,6 +293,10 @@ payload:
   # - DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com,DIRECT
   # - DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com,DIRECT
 
+  ## Raindrop
+  - DOMAIN‑SUFFIX,up.raindrop.io
+  - DOMAIN‑SUFFIX,api.raindrop.io
+
   ## Github
   - DOMAIN‑SUFFIX,github.com
   - DOMAIN‑SUFFIX,www.github.com
