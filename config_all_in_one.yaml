@@ -293,27 +293,21 @@ payload:
   # - DOMAIN-SUFFIX,copilot-proxy.githubusercontent.com,DIRECT
   # - DOMAIN-SUFFIX,copilot-telemetry.githubusercontent.com,DIRECT
 
-  ## Raindrop
-  - DOMAIN‑SUFFIX,raindrop.io
-  - DOMAIN‑SUFFIX,up.raindrop.io
-  - DOMAIN‑SUFFIX,api.raindrop.io
-  - DOMAIN‑SUFFIX,app.raindrop.io
-  - DOMAIN‑SUFFIX,cdn.raindrop.io
-  - DOMAIN‑SUFFIX,static.raindrop.io
-  - DOMAIN‑SUFFIX,rdl.ink
-  - DOMAIN‑SUFFIX,files.raindrop.io
-  - DOMAIN‑SUFFIX,raindropio-production.s3.amazonaws.com
+	## Raindrop
+	- DOMAIN-SUFFIX,raindrop.io
+	- DOMAIN-SUFFIX,up.raindrop.io
+	- DOMAIN-SUFFIX,api.raindrop.io
+	- DOMAIN-SUFFIX,app.raindrop.io
+	- DOMAIN-SUFFIX,cdn.raindrop.io
+	- DOMAIN-SUFFIX,static.raindrop.io
+	- DOMAIN-SUFFIX,rdl.ink
+	- DOMAIN-SUFFIX,files.raindrop.io
+	- DOMAIN-SUFFIX,raindropio-production.s3.amazonaws.com
 
-  - DOMAIN‑SUFFIX,image.thum.io
-  - DOMAIN‑SUFFIX,thum.io
-  - DOMAIN‑SUFFIX,api.miniature.io
-  - DOMAIN‑SUFFIX,api.pagepeeker.com
-
-  - DOMAIN‑SUFFIX,*.cloudfront.net
-  - DOMAIN‑SUFFIX,*.akamaized.net
-  - DOMAIN‑SUFFIX,*.fbcdn.net
-  - DOMAIN‑SUFFIX,*.cdninstagram.com
-  - DOMAIN‑SUFFIX,*.ytimg.com
+	- DOMAIN-SUFFIX,image.thum.io
+	- DOMAIN-SUFFIX,thum.io
+	- DOMAIN-SUFFIX,api.miniature.io
+	- DOMAIN-SUFFIX,api.pagepeeker.com
 
   ## Github
   - DOMAIN‑SUFFIX,github.com
