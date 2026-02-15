@@ -53,8 +53,8 @@ payload:
   - DOMAIN-SUFFIX,legacy.cadillac.com
   - DOMAIN-SUFFIX,my.cadillac.com
 
-  - DOMAIN‑SUFFIX,affinity.studio
-  - DOMAIN‑SUFFIX,affinity.serif.com
+	- DOMAIN‑SUFFIX,affinity.studio
+	- DOMAIN‑SUFFIX,affinity.serif.com
   - DOMAIN‑SUFFIX,store.serif.com
   - DOMAIN‑SUFFIX,support.serif.com
   - DOMAIN‑SUFFIX,forum.affinity.serif.com
