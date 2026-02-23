@@ -97,29 +97,27 @@ payload:
 
   ## Instagram
   - DOMAIN-SUFFIX,instagram.com
-  - DOMAIN-SUFFIX,www.instagram.com
   - DOMAIN-SUFFIX,cdninstagram.com
-  - DOMAIN-SUFFIX,static.cdninstagram.com
-  - DOMAIN-SUFFIX,scontent.cdninstagram.com
   - DOMAIN-SUFFIX,instagramstatic.com
-  - DOMAIN-SUFFIX,igcdn-photos-e-a.akamaihd.net
   - DOMAIN-SUFFIX,graph.instagram.com
   - DOMAIN-SUFFIX,api.instagram.com
+  - DOMAIN-SUFFIX,i.instagram.com
+  - DOMAIN-SUFFIX,b.i.instagram.com
   - DOMAIN-SUFFIX,edge-chat.instagram.com
+  - DOMAIN-SUFFIX,edge-video.instagram.com
   - DOMAIN-SUFFIX,ig.me
   - DOMAIN-SUFFIX,instagr.am
-  - DOMAIN-SUFFIX,igsonar.com
-  - DOMAIN-SUFFIX,i.instagram.com
+  - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,akamaihd.net
   - DOMAIN-SUFFIX,z-p42-chat-e2ee-ig.facebook.com
   - DOMAIN-SUFFIX,mqtt-ig-p4.facebook.com
   - DOMAIN-SUFFIX,instagram-portal.fb.com
   - DOMAIN-SUFFIX,z-p3-instagram-portal.fb.com
   - DOMAIN-SUFFIX,z-p42-instagram-portal.fb.com
-  - DOMAIN-SUFFIX,fbcdn.net
-  - DOMAIN-SUFFIX,scontent.xx.fbcdn.net
-  - DOMAIN-SUFFIX,akamaihd.net
-  - DOMAIN-SUFFIX,z-p42-chat-e2ee-ig.facebook.com
-  - DOMAIN-SUFFIX,mqtt-ig-p4.facebook.com
+  - DOMAIN-SUFFIX,lookaside.fbsbx.com
+  - DOMAIN-SUFFIX,connect.facebook.net
+  - DOMAIN-SUFFIX,rupload.facebook.com
+  - DOMAIN-SUFFIX,edgecastcdn.net
 
   - DOMAIN-SUFFIX,video.cdninstagram.com
   - DOMAIN-SUFFIX,instagram.fxyz1-1.fna.fbcdn.net
