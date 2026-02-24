@@ -34,7 +34,7 @@ payload:
   - DOMAIN-SUFFIX,www.ikea.com
   - DOMAIN-SUFFIX,accounts.ikea.com
   - DOMAIN-SUFFIX,api.dexf.ikea.com
-  - DOMAIN-SUFFIX,api.home‑design.ikea.com
+  - DOMAIN-SUFFIX,api.home-design.ikea.com
   - DOMAIN-SUFFIX,api.ingka.ikea.com
   - DOMAIN-SUFFIX,asset.inter.ikea.com
   - DOMAIN-SUFFIX,content.dexf.ikea.com
@@ -53,11 +53,11 @@ payload:
   - DOMAIN-SUFFIX,legacy.cadillac.com
   - DOMAIN-SUFFIX,my.cadillac.com
 
-  - DOMAIN‑SUFFIX,affinity.studio
-  - DOMAIN‑SUFFIX,affinity.serif.com
-  - DOMAIN‑SUFFIX,store.serif.com
-  - DOMAIN‑SUFFIX,support.serif.com
-  - DOMAIN‑SUFFIX,forum.affinity.serif.com
+  - DOMAIN-SUFFIX,affinity.studio
+  - DOMAIN-SUFFIX,affinity.serif.com
+  - DOMAIN-SUFFIX,store.serif.com
+  - DOMAIN-SUFFIX,support.serif.com
+  - DOMAIN-SUFFIX,forum.affinity.serif.com
 
   ## Google
   ##- DOMAIN-SUFFIX,google.com
@@ -276,7 +276,7 @@ payload:
   - DOMAIN-SUFFIX,cdn.arc.net
   - DOMAIN-SUFFIX,assets.arc.net
   - DOMAIN-SUFFIX,static.arc.net
-  # Потенциально нужные для API/AI‑функций
+  # Потенциально нужные для API/AI-функций
   - DOMAIN-SUFFIX,api.arc.net
   - DOMAIN-SUFFIX,ai.arc.net
 
@@ -301,29 +301,29 @@ payload:
   - DOMAIN-SUFFIX,rdl.ink
   - DOMAIN-SUFFIX,files.raindrop.io
   - DOMAIN-SUFFIX,raindropio-production.s3.amazonaws.com
-  
+
   - DOMAIN-SUFFIX,image.thum.io
   - DOMAIN-SUFFIX,thum.io
   - DOMAIN-SUFFIX,api.miniature.io
   - DOMAIN-SUFFIX,api.pagepeeker.com
 
   ## Github
-  - DOMAIN‑SUFFIX,github.com
-  - DOMAIN‑SUFFIX,www.github.com
-  - DOMAIN‑SUFFIX,api.github.com
-  - DOMAIN‑SUFFIX,docs.github.com
-  - DOMAIN‑SUFFIX,status.github.com
-  - DOMAIN‑SUFFIX,githubstatus.com
-  - DOMAIN‑SUFFIX,github.io
-  - DOMAIN‑SUFFIX,raw.githubusercontent.com
-  - DOMAIN‑SUFFIX,githubusercontent.com
-  - DOMAIN‑SUFFIX,gist.github.com
-  - DOMAIN‑SUFFIX,gist.githubusercontent.com
-  - DOMAIN‑SUFFIX,assets.github.com
-  - DOMAIN‑SUFFIX,avatars.githubusercontent.com
-  - DOMAIN‑SUFFIX,camo.githubusercontent.com
-  - DOMAIN‑SUFFIX,media.githubusercontent.com
-  - DOMAIN‑SUFFIX,release-assets.githubusercontent.com
+  - DOMAIN-SUFFIX,github.com
+  - DOMAIN-SUFFIX,www.github.com
+  - DOMAIN-SUFFIX,api.github.com
+  - DOMAIN-SUFFIX,docs.github.com
+  - DOMAIN-SUFFIX,status.github.com
+  - DOMAIN-SUFFIX,githubstatus.com
+  - DOMAIN-SUFFIX,github.io
+  - DOMAIN-SUFFIX,raw.githubusercontent.com
+  - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,gist.github.com
+  - DOMAIN-SUFFIX,gist.githubusercontent.com
+  - DOMAIN-SUFFIX,assets.github.com
+  - DOMAIN-SUFFIX,avatars.githubusercontent.com
+  - DOMAIN-SUFFIX,camo.githubusercontent.com
+  - DOMAIN-SUFFIX,media.githubusercontent.com
+  - DOMAIN-SUFFIX,release-assets.githubusercontent.com
 
   ## Microsoft VS Code
   - DOMAIN-SUFFIX,visualstudio.com
