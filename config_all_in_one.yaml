@@ -96,7 +96,6 @@ payload:
   - DOMAIN-SUFFIX,youtube-nocookie.com
   - DOMAIN-SUFFIX,youtubeads.g.doubleclick.net
   - DOMAIN-SUFFIX,redirector.googlevideo.com
-  - DOMAIN-SUFFIX,r3---sn-xxxxxxxxx.googlevideo.com
   - DOMAIN-SUFFIX,youtube.com.tr
 
   - DOMAIN-SUFFIX,api.invidious.io
