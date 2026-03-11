@@ -67,16 +67,9 @@ payload:
   - DOMAIN-KEYWORD,clientstream.launchdarkly.com
   - DOMAIN-KEYWORD,api.segment.io
   - DOMAIN-KEYWORD,play.google.com
+
   - DOMAIN-KEYWORD,youtube
-  - DOMAIN-KEYWORD,accounts.google.com
-  
   - DOMAIN-SUFFIX,youtube.com
-  - DOMAIN-SUFFIX,accounts.youtube.com
-  - DOMAIN-SUFFIX,accounts.google.com
-  - DOMAIN-SUFFIX,suggestqueries-clients6.youtube.com
-  - DOMAIN-SUFFIX,jnn-pa.googleapis.com
-  - DOMAIN-SUFFIX,ecuretoken.googleapis.com
-  - DOMAIN-SUFFIX,clients6.google.com
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,ytimg.com
   - DOMAIN-SUFFIX,youtu.be
@@ -96,6 +89,7 @@ payload:
   - DOMAIN-SUFFIX,youtube-nocookie.com
   - DOMAIN-SUFFIX,youtubeads.g.doubleclick.net
   - DOMAIN-SUFFIX,redirector.googlevideo.com
+  - DOMAIN-SUFFIX,r3---sn-xxxxxxxxx.googlevideo.com
   - DOMAIN-SUFFIX,youtube.com.tr
 
   - DOMAIN-SUFFIX,api.invidious.io
