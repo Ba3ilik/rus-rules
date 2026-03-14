@@ -59,6 +59,26 @@ payload:
   - DOMAIN-SUFFIX,support.serif.com
   - DOMAIN-SUFFIX,forum.affinity.serif.com
 
+  ## Telegram
+  - DOMAIN-SUFFIX,telegram.org
+  - DOMAIN-SUFFIX,www.telegram.org
+  - DOMAIN-SUFFIX,core.telegram.org
+  - DOMAIN-SUFFIX,api.telegram.org
+  - DOMAIN-SUFFIX,web.telegram.org
+  - DOMAIN-SUFFIX,webk.telegram.org
+  - DOMAIN-SUFFIX,webz.telegram.org
+  - DOMAIN-SUFFIX,cdn.telegram.org
+  - DOMAIN-SUFFIX,telegram-cdn.org
+  - DOMAIN-SUFFIX,telegramcontent.com
+  - DOMAIN-SUFFIX,t.me
+  - DOMAIN-SUFFIX,telegram.me
+  - DOMAIN-SUFFIX,tlgrm.me
+  - DOMAIN-SUFFIX,oauth.telegram.org
+  - DOMAIN-SUFFIX,passport.telegram.org
+  - DOMAIN-SUFFIX,updates.telegram.org
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,fastly.net
+
   ## Google
   ##- DOMAIN-SUFFIX,google.com
 
