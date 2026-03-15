@@ -18,4 +18,4 @@ payload:
   - DOMAIN-SUFFIX,login.mos.ru
   - DOMAIN-SUFFIX,esia.gosuslugi.ru
 
-  - GEOIP,RU
+  ##- GEOIP,RU
