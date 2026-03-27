@@ -93,7 +93,7 @@ payload:
   - IP-CIDR6,2001:67c:4e8::/48
   - IP-CIDR6,2001:b28:f23c::/48
   - IP-CIDR6,2a0a:f280::/32
-  
+
 
   ## Google
   ##- DOMAIN-SUFFIX,google.com
@@ -552,6 +552,30 @@ payload:
   - DOMAIN-SUFFIX,nflximg.com
   - DOMAIN-SUFFIX,nflxso.net
   - DOMAIN-SUFFIX,nflxvideo.net
+
+  ## Disney+
+  - DOMAIN-SUFFIX,disneyplus.com
+  - DOMAIN-SUFFIX,www.disneyplus.com
+  - DOMAIN-SUFFIX,disney-plus.net
+  - DOMAIN-SUFFIX,api.disneyplus.com
+  - DOMAIN-SUFFIX,disney.api.edge.bamgrid.com
+  - DOMAIN-SUFFIX,api.edge.bamgrid.com
+  - DOMAIN-SUFFIX,disneyid.com
+  - DOMAIN-SUFFIX,auth.disneyplus.com
+  - DOMAIN-SUFFIX,widevine-proxy.appspot.com
+  - DOMAIN-SUFFIX,drm-widevine-licensing.a3.google.com
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,akamaihd.net
+  - DOMAIN-SUFFIX,edgekey.net
+  - DOMAIN-SUFFIX,edgesuite.net
+  - DOMAIN-SUFFIX,cdn.registerdisney.go.com
+  - DOMAIN-SUFFIX,static-assets.bamgrid.com
+  - DOMAIN-SUFFIX,media.disneyplus.com
+  - DOMAIN-SUFFIX,bamgrid.com
+  - DOMAIN-SUFFIX,cdn.bamgrid.com
+  - DOMAIN-SUFFIX,prod.bamgrid.com
+  - DOMAIN-SUFFIX,go.com
+  - DOMAIN-SUFFIX,disney.com
 
   ## Elgato
   - DOMAIN-SUFFIX,elgato.com
