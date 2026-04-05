@@ -131,6 +131,57 @@ payload:
   - DOMAIN-SUFFIX,api.invidious.io
   - DOMAIN-SUFFIX,iv.ggtyler.dev
 
+  ## Roblox
+  - DOMAIN-SUFFIX,roblox.com
+  - DOMAIN-SUFFIX,www.roblox.com
+
+  - DOMAIN-SUFFIX,api.roblox.com
+  - DOMAIN-SUFFIX,auth.roblox.com
+  - DOMAIN-SUFFIX,users.roblox.com
+  - DOMAIN-SUFFIX,accountinformation.roblox.com
+  - DOMAIN-SUFFIX,clientsettings.roblox.com
+  - DOMAIN-SUFFIX,presence.roblox.com
+
+  - DOMAIN-SUFFIX,gamejoin.roblox.com
+  - DOMAIN-SUFFIX,gamejoininfo.roblox.com
+  - DOMAIN-SUFFIX,matchmaking.roblox.com
+
+  - DOMAIN-SUFFIX,rbxcdn.com
+  - DOMAIN-SUFFIX,assetdelivery.roblox.com
+  - DOMAIN-SUFFIX,assetgame.roblox.com
+  - DOMAIN-SUFFIX,assetdelivery.rbxcdn.com
+
+  - DOMAIN-SUFFIX,tr.rbxcdn.com
+  - DOMAIN-SUFFIX,images.rbxcdn.com
+  - DOMAIN-SUFFIX,t0.rbxcdn.com
+  - DOMAIN-SUFFIX,t1.rbxcdn.com
+  - DOMAIN-SUFFIX,t2.rbxcdn.com
+  - DOMAIN-SUFFIX,t3.rbxcdn.com
+  - DOMAIN-SUFFIX,t4.rbxcdn.com
+
+  - DOMAIN-SUFFIX,chat.roblox.com
+  - DOMAIN-SUFFIX,voice.roblox.com
+  - DOMAIN-SUFFIX,realtime.roblox.com
+
+  - DOMAIN-SUFFIX,setup.roblox.com
+  - DOMAIN-SUFFIX,setup.rbxcdn.com
+
+  - DOMAIN-SUFFIX,ephemeralcounters.api.roblox.com
+  - DOMAIN-SUFFIX,robloxlabs.com
+
+  - DOMAIN-SUFFIX,cloudfront.net
+  - DOMAIN-SUFFIX,akamaihd.net
+  - DOMAIN-SUFFIX,fastly.net
+
+  - IP-CIDR,128.116.0.0/16
+  - IP-CIDR,128.116.64.0/18
+  - IP-CIDR,128.116.128.0/17
+  - IP-CIDR,205.186.0.0/16
+
+  - IP-CIDR,54.148.0.0/15
+  - IP-CIDR,54.246.0.0/16
+  - IP-CIDR,52.84.0.0/15
+
   ## Instagram
   - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,cdninstagram.com
