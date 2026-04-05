@@ -184,34 +184,45 @@ payload:
 
   ## Instagram
   - DOMAIN-SUFFIX,instagram.com
-  - DOMAIN-SUFFIX,cdninstagram.com
-  - DOMAIN-SUFFIX,instagramstatic.com
+  - DOMAIN-SUFFIX,instagr.am
+  - DOMAIN-SUFFIX,ig.me
+  ## API / backend
   - DOMAIN-SUFFIX,graph.instagram.com
   - DOMAIN-SUFFIX,api.instagram.com
   - DOMAIN-SUFFIX,i.instagram.com
   - DOMAIN-SUFFIX,b.i.instagram.com
+  ## чат / realtime
   - DOMAIN-SUFFIX,edge-chat.instagram.com
-  - DOMAIN-SUFFIX,edge-video.instagram.com
-  - DOMAIN-SUFFIX,ig.me
-  - DOMAIN-SUFFIX,instagr.am
-  - DOMAIN-SUFFIX,fbcdn.net
-  - DOMAIN-SUFFIX,akamaihd.net
   - DOMAIN-SUFFIX,z-p42-chat-e2ee-ig.facebook.com
   - DOMAIN-SUFFIX,mqtt-ig-p4.facebook.com
+  ## видео / стриминг
+  - DOMAIN-SUFFIX,edge-video.instagram.com
+  - DOMAIN-SUFFIX,video.cdninstagram.com
+  - DOMAIN-SUFFIX,video.xx.fbcdn.net
+  ## CDN Instagram
+  - DOMAIN-SUFFIX,cdninstagram.com
+  - DOMAIN-SUFFIX,scontent.cdninstagram.com
+  - DOMAIN-SUFFIX,static.cdninstagram.com
+  - DOMAIN-SUFFIX,instagramstatic.com
+  ## CDN Meta (критично)
+  - DOMAIN-SUFFIX,fbcdn.net
+  - DOMAIN-SUFFIX,scontent.fbcdn.net
+  - DOMAIN-SUFFIX,scontent.xx.fbcdn.net
+  - DOMAIN-SUFFIX,fna.fbcdn.net
+  - DOMAIN-SUFFIX,fnb.fbcdn.net
+  - DOMAIN-SUFFIX,fnc.fbcdn.net
+  - DOMAIN-SUFFIX,fnd.fbcdn.net
+  ## portal / infra Meta
   - DOMAIN-SUFFIX,instagram-portal.fb.com
   - DOMAIN-SUFFIX,z-p3-instagram-portal.fb.com
   - DOMAIN-SUFFIX,z-p42-instagram-portal.fb.com
+  ## загрузка / upload / вспомогательные
   - DOMAIN-SUFFIX,lookaside.fbsbx.com
-  - DOMAIN-SUFFIX,connect.facebook.net
   - DOMAIN-SUFFIX,rupload.facebook.com
+  - DOMAIN-SUFFIX,connect.facebook.net
+  ## fallback CDN
+  - DOMAIN-SUFFIX,akamaihd.net
   - DOMAIN-SUFFIX,edgecastcdn.net
-
-  - DOMAIN-SUFFIX,video.cdninstagram.com
-  - DOMAIN-SUFFIX,instagram.fxyz1-1.fna.fbcdn.net
-  - DOMAIN-SUFFIX,instagram.fxyz2-1.fna.fbcdn.net
-  - DOMAIN-SUFFIX,instagram.fxxx1-1.fna.fbcdn.net
-  - DOMAIN-SUFFIX,edge-video.instagram.com
-  - DOMAIN-SUFFIX,video.xx.fbcdn.net
 
   ## Facebook
   - DOMAIN-SUFFIX,facebook.com
