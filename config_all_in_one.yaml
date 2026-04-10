@@ -936,3 +936,13 @@ payload:
   - DOMAIN-SUFFIX,*.ofx.com
   - DOMAIN-SUFFIX,currencyfair.com
   - DOMAIN-SUFFIX,*.currencyfair.com
+
+  ## Lets Enhance
+  - DOMAIN-SUFFIX,letsenhance.io
+  - DOMAIN-SUFFIX,help.letsenhance.io
+  - DOMAIN-SUFFIX,careers.letsenhance.io
+  - DOMAIN-SUFFIX,partners.letsenhance.io
+
+  - DOMAIN-SUFFIX,claid.ai
+  - DOMAIN-SUFFIX,docs.claid.ai
+  - DOMAIN-SUFFIX,api.claid.ai
