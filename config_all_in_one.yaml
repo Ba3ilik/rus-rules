@@ -289,6 +289,16 @@ payload:
   - DOMAIN-SUFFIX,framer.cloud
   - DOMAIN-SUFFIX,framerusercontent.com
 
+  ## Relume
+  - DOMAIN-SUFFIX,relume.io
+  - DOMAIN-SUFFIX,apis.relume.io
+  - DOMAIN-SUFFIX,php.relume.io
+
+  ## Lovable
+  - DOMAIN-SUFFIX,lovable.dev
+  - DOMAIN-SUFFIX,lovable.app
+  - DOMAIN-SUFFIX,lovableproject.com
+
   ## Canva
   - DOMAIN-SUFFIX,canva.com
   - DOMAIN-SUFFIX,my.canva.site
@@ -442,7 +452,7 @@ payload:
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,sora.com
   - DOMAIN-SUFFIX,cdn.oaistatic.com
-  - DOMAIN-SUFFIX,files.oaiusercontent.com
+  - DOMAIN-SUFFIX,oaiusercontent.com
   - DOMAIN-SUFFIX,ios.chat.openai.com
   - DOMAIN-SUFFIX,android.chat.openai.com
   - DOMAIN-SUFFIX,desktop.chat.openai.com
@@ -591,6 +601,15 @@ payload:
   - DOMAIN-SUFFIX,edx-notifications.org
   - DOMAIN-SUFFIX,edx-accounts.org
   - DOMAIN-SUFFIX,edx-assets.org
+
+  ## Must App
+  - DOMAIN-SUFFIX,mustapp.com
+  - DOMAIN-SUFFIX,media.mustapp.me
+  - DOMAIN-SUFFIX,kvinit-prod.api.kochava.com
+
+  ## IMDB
+  - DOMAIN-SUFFIX,imdb.com
+  - DOMAIN-SUFFIX,media-imdb.com
 
   ## Netflix
   - DOMAIN-SUFFIX,netflix.com
@@ -856,6 +875,8 @@ payload:
   - DOMAIN-SUFFIX,*.paypal.com
   - DOMAIN-SUFFIX,stripe.com
   - DOMAIN-SUFFIX,*.stripe.com
+  - DOMAIN-SUFFIX,stripe.network
+  - DOMAIN-SUFFIX,*.stripe.network
   - DOMAIN-SUFFIX,squareup.com
   - DOMAIN-SUFFIX,*.squareup.com
   - DOMAIN-SUFFIX,adyen.com
@@ -936,6 +957,8 @@ payload:
   - DOMAIN-SUFFIX,*.ofx.com
   - DOMAIN-SUFFIX,currencyfair.com
   - DOMAIN-SUFFIX,*.currencyfair.com
+  - DOMAIN-SUFFIX,bunq.com
+  - DOMAIN-SUFFIX,*.bunq.com
 
   ## Lets Enhance
   - DOMAIN-SUFFIX,letsenhance.io
