@@ -28,6 +28,8 @@ payload:
 
   - DOMAIN-SUFFIX,crunchbase.com
 
+  - DOMAIN-SUFFIX,ycombinator.com
+
   - DOMAIN-SUFFIX,xtool.com
 
   - DOMAIN-SUFFIX,ikea.com
@@ -299,6 +301,12 @@ payload:
   - DOMAIN-SUFFIX,lovable.app
   - DOMAIN-SUFFIX,lovableproject.com
 
+  ## Flora
+  - DOMAIN-SUFFIX,flora.ai
+  - DOMAIN-SUFFIX,app.flora.ai
+  - DOMAIN-SUFFIX,media.flora.ai
+  - DOMAIN-SUFFIX,clerk.flora.ai
+
   ## Canva
   - DOMAIN-SUFFIX,canva.com
   - DOMAIN-SUFFIX,my.canva.site
@@ -492,6 +500,10 @@ payload:
   - DOMAIN-SUFFIX,cloud.google.com
   - DOMAIN-SUFFIX,deepmind.google
 
+  ## Granola AI
+  - DOMAIN-SUFFIX,granola.ai
+  - DOMAIN-SUFFIX,api.granola.ai
+
   ## Deepl
   - DOMAIN-SUFFIX,deepl.com
   - DOMAIN-SUFFIX,www.deepl.com
@@ -610,6 +622,10 @@ payload:
   ## IMDB
   - DOMAIN-SUFFIX,imdb.com
   - DOMAIN-SUFFIX,media-imdb.com
+
+  ## Endel
+  - DOMAIN-SUFFIX,endel.io
+  - DOMAIN-SUFFIX,endelcdn.net
 
   ## Netflix
   - DOMAIN-SUFFIX,netflix.com
