@@ -555,6 +555,11 @@ payload:
   - DOMAIN-SUFFIX,licdn.com
   - DOMAIN-SUFFIX,lnkd.in
 
+  ## Intercom
+  - DOMAIN-SUFFIX,intercom.io
+  - DOMAIN-SUFFIX,intercom-help.eu
+  - DOMAIN-SUFFIX,intercom-messenger.com
+
   ## Rhino + Food3Rhino
   - DOMAIN-SUFFIX,food4rhino.com
   - DOMAIN-SUFFIX,mcneel.com
