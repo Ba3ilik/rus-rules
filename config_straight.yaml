@@ -12,6 +12,8 @@ payload:
   - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,icloud.com
   - DOMAIN-SUFFIX,me.com
+
+  - DOMAIN-SUFFIX,rick-i-morty.online
   
   - DOMAIN-SUFFIX,parking.mos.ru
   - DOMAIN-SUFFIX,lk.parking.mos.ru
