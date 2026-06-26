@@ -60,6 +60,11 @@ payload:
   - DOMAIN-SUFFIX,store.serif.com
   - DOMAIN-SUFFIX,support.serif.com
   - DOMAIN-SUFFIX,forum.affinity.serif.com
+  
+  
+  
+  - DOMAIN-SUFFIX,cutlistoptimizer.com
+
 
   ## Telegram
   - DOMAIN-SUFFIX,telegram.org
