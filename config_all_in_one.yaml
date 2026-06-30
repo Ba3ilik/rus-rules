@@ -469,6 +469,7 @@ payload:
   - DOMAIN-SUFFIX,ios.chat.openai.com
   - DOMAIN-SUFFIX,android.chat.openai.com
   - DOMAIN-SUFFIX,desktop.chat.openai.com
+  - DOMAIN-SUFFIX,api.oaistatsig.com
 
   ## Gab Ai
   - DOMAIN-SUFFIX,gab.ai
